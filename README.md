@@ -1,4 +1,4 @@
-# 📊SALES PIPELINE DEALS ANALYTICS DASHBOARD
+# 📊 SALES PIPELINE DEALS ANALYTICS DASHBOARD
 ## FP20 ANALYTICS DATA CHALLENGE-35
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
@@ -9,7 +9,7 @@ The report is built using **Power BI** along with **ZoomCharts Drill-Down** visu
 
 ---
 
-## 🖼️DASHBOARD PREVIEW
+## 🖼️ DASHBOARD PREVIEW
 
 ![Dashboard gif](https://github.com/user-attachments/assets/65b6c74a-18d2-45dd-9db0-dbe00a0a587a)
 
@@ -18,13 +18,13 @@ The report is built using **Power BI** along with **ZoomCharts Drill-Down** visu
 
 ---
 
-## 🎥DASHBOARD VIDEO
+## 🎥 DASHBOARD VIDEO
 
 https://github.com/user-attachments/assets/10979ce4-2cd7-4574-b1d9-02745ad48c4e
 
 ---
 
-## 📋DASHBOARD STRUCTURE
+## 📋 DASHBOARD STRUCTURE
 Built 3-page Power BI dashboard focusing on:
 * Sales Overview
 * Deal & SalesRep Performance
@@ -96,7 +96,7 @@ This page focuses on deal stagnation and risk assessment, identifying which oppo
 
 ---
 
-## 🎯KEY TAKEAWAYS
+## 🎯 KEY TAKEAWAYS
 
 * **Massive Scale:** Pipeline value and won revenue are growing exponentially year-over-year.
 
