@@ -69,7 +69,7 @@ This page shifts the focus from global pipeline health to individual and team pr
 #### Key Insights:
 * Eva Pereira (#1) is significantly ahead of Petra Ivanova (#2), with nearly double the won revenue (€ 16.7M vs. € 9.9M).
 * Email is the dominant communication channel (72,850) compared to calls (23,500) and meetings (14,100).
-* Deal performance (Open, Won, and Lost) peaked in 2025, with a visible dip projected or recorded for 2026.
+* Deal performance (Open, Won and Lost) peaked in 2025, with a visible dip projected or recorded for 2026.
 * The table identifies representatives by status; for instance, Marco Popescu is marked as "Churned" yet still holds the #3 performance spot, indicating a loss of high-value talent.
 
 
@@ -126,7 +126,7 @@ This page focuses on deal stagnation and risk assessment, identifying which oppo
 ---
 
 ## 🔗 Connect
-Feel free to connect for collaboration, reviews, or suggestions to enhance this project further.
+Feel free to connect for collaboration, reviews or suggestions to enhance this project further.
 
 
 
