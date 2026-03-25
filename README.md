@@ -5,7 +5,7 @@
 ![Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Dashboard-green)
 
-The report is built using **Power BI** along with **ZoomCharts Drill-Down** visuals to explore the sales pipeline in depth and derive actionable insights that can strengthen the relationship between customers, sales teams, and leadership.
+The report is built using **Power BI** along with **ZoomCharts Drill-Down** visuals to explore the sales pipeline in depth and derive actionable insights that can strengthen the relationship between customers, sales teams and leadership.
 
 ---
 
